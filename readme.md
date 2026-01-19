@@ -23,3 +23,14 @@ Tools Used
 - Pandas
 - Matplotlib
 - Seaborn
+
+Data Availability
+
+The historical trader dataset used in this analysis exceeds GitHub’s
+file size limit and is therefore not included in this repository.
+
+The dataset was accessed using the official assignment links provided by
+PrimeTrade.ai and can be obtained from the following sources:
+
+- Hyperliquid Historical Trader Data (Google Drive link in assignment)
+- Bitcoin Fear & Greed Index (Google Drive link in assignment)
